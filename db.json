@@ -1,20 +1,20 @@
 {
   "FormUsuarios": [
-		{
-		  "id": 1,
-		  "email": "test1@test.com",
-		  "username": "test1"
-		},
-		{
-		  "id": 2,
-		  "email": "test2@test.com",
-		  "username": "test2"
-		},
-		{
-		  "id": 3,
-		  "email": "test3@test.com",
-		  "username": "test3"
-		}
+    {
+      "id": 1,
+      "email": "test1@test.com",
+      "username": "test1"
+    },
+    {
+      "id": 2,
+      "email": "test2@test.com",
+      "username": "test2"
+    },
+    {
+      "id": 3,
+      "email": "test3@test.com",
+      "username": "test3"
+    }
   ],
   "grafica": {
     "facebook": 2700,
@@ -23,13 +23,57 @@
     "facebook-messenger": 1350,
     "instagram": 1123
   },
+  "portafolio-dashboard": [
+    {
+      "id": 1,
+      "titulo": "Cootranshuila",
+      "texto": "Colabore en algunos cambios de ese proyecto.",
+      "url": "https://cootranshuila.com",
+      "imagen": "assets/img/cootranshuila.png"
+    },
+    {
+      "id": 2,
+      "titulo": "Pipes Angular",
+      "texto": "Lo realice durante el curso de Angular de Fernando Herrera.",
+      "url": "https://jesus-rojas.github.io/Pipes",
+      "imagen": "assets/img/pipes-angular.png"
+    },
+    {
+      "id": 3,
+      "titulo": "Graficas Angular",
+      "texto": "Lo realice durante el curso de Angular de Fernando Herrera.",
+      "url": "https://jesus-rojas.github.io/Angular-Graficas",
+      "imagen": "assets/img/graficas-angular.png"
+    },
+    {
+      "id": 4,
+      "titulo": "Mapas Angular",
+      "texto": "Lo realice durante el curso de Angular de Fernando Herrera.",
+      "url": "https://jesus-rojas.github.io/Mapas-Angular",
+      "imagen": "assets/img/mapas-angular.png"
+    },
+    {
+      "id": 5,
+      "titulo": "Giphy Angular",
+      "texto": "Lo realice durante el curso de Angular de Fernando Herrera.",
+      "url": "https://jesus-rojas.github.io/API-Giphy",
+      "imagen": "assets/img/gifs-angular.png"
+    },
+    {
+      "id": 6,
+      "titulo": "Landing Page",
+      "texto": "La realice durante el tecnólogo de ADSI del SENA.",
+      "url": "https://jesus-rojas.github.io/Pagina-Web",
+      "imagen": "assets/img/landing-page.png"
+    }
+  ],
   "usuarios": [
-	  {
-	    "id": 1,
-	    "usuario": "John Doe",
-	    "email": "john.due@gmail.com"
-	  }
-	],
+    {
+      "id": 1,
+      "usuario": "John Doe",
+      "email": "john.due@gmail.com"
+    }
+  ],
   "heroes": [
     {
       "id": "dc-batman",
