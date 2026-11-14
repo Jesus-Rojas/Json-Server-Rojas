@@ -151,7 +151,7 @@ az webapp deployment source config-local-git -n NameOfApp -g NameOfResourceGroup
 6 . From the command in step 5 you should get a **url** in return. Copy this url and add it as a remote to your local git project, for example:
 
 ```bash
-git remote add azure https://jesperorb@deploy-testing.scm.azurewebsites.net/deploy-testing.git
+git remote add azure https://rymdar@deploy-testing.scm.azurewebsites.net/deploy-testing.git
 ```
 
 7 . Now you should be able to push your app:
